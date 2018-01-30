@@ -1,0 +1,17 @@
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.dll
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.pdb
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.pri
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.dll
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.pdb
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\priconfig.xml
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\priconfig.xml.intermediate
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\layout.resfiles
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\layout.resfiles.intermediate
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\resources.resfiles
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\resources.resfiles.intermediate
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\pri.resfiles
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\pri.resfiles.intermediate
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\qualifiers.txt
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt

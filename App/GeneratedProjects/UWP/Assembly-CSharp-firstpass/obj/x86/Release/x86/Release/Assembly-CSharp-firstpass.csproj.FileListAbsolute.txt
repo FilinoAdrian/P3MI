@@ -1,0 +1,17 @@
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.dll
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pdb
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Release\Assembly-CSharp-firstpass.pri
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.dll
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\Assembly-CSharp-firstpass.pdb
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt

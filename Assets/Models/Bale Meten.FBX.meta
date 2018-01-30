@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: 06abbd8033e79f04fb90fa383f4bafa0
+timeCreated: 1504073493
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Atap
+    100002: Atap.001
+    100004: Atap.002
+    100006: Atap.003
+    100008: Atap.004
+    100010: //RootNode
+    100012: Bale.001
+    100014: Bale.002
+    100016: Box
+    100018: Box001
+    100020: Box002
+    100022: Box029
+    100024: Box030
+    100026: Box031
+    100028: Box032
+    100030: Box033
+    100032: Box037
+    100034: Box038
+    100036: Box054
+    100038: Box059
+    100040: Dinding
+    100042: Dinding Belakang
+    100044: Dinding Depan
+    100046: Dinding Kanan
+    100048: Dinding Kiri
+    100050: Iga-iga (Usuk)
+    100052: Iga-iga (Usuk).001
+    100054: Iga-iga (Usuk).002
+    100056: Iga-iga (Usuk).003
+    100058: Iga-iga (Usuk).004
+    100060: Iga-iga (Usuk).005
+    100062: Iga-iga (Usuk).006
+    100064: Iga-iga (Usuk).007
+    100066: Iga-iga (Usuk).008
+    100068: Iga-iga (Usuk).009
+    100070: Iga-iga (Usuk).010
+    100072: Iga-iga (Usuk).011
+    100074: Iga-iga (Usuk).017
+    100076: Iga-iga (Usuk).018
+    100078: Iga-iga (Usuk).019
+    100080: Iga-iga (Usuk).020
+    100082: Iga-iga (Usuk).021
+    100084: Iga-iga (Usuk).022
+    100086: Iga-iga (Usuk).023
+    100088: Iga-iga (Usuk).024
+    100090: Iga-iga (Usuk).025
+    100092: Iga-iga (Usuk).028
+    100094: Iga-iga (Usuk).029
+    100096: Iga-iga (Usuk).030
+    100098: Iga-iga (Usuk).031
+    100100: Iga-iga (Usuk).032
+    100102: Iga-iga (Usuk).033
+    100104: Iga-iga (Usuk).034
+    100106: Iga-iga (Usuk).035
+    100108: Iga-iga (Usuk).042
+    100110: Iga-iga (Usuk).043
+    100112: Iga-iga (Usuk).044
+    100114: Iga-iga (Usuk).045
+    100116: Iga-iga (Usuk).046
+    100118: Iga-iga (Usuk).047
+    100120: Iga-iga (Usuk).048
+    100122: Iga-iga (Usuk).049
+    100124: Iga-iga (Usuk).050
+    100126: Iga-iga (Usuk).051
+    100128: Iga-iga (Usuk).052
+    100130: Iga-iga (Usuk).053
+    100132: Iga-iga (Usuk).054
+    100134: Iga-iga (Usuk).055
+    100136: Iga-iga (Usuk).056
+    100138: Iga-iga (Usuk).057
+    100140: Iga-iga (Usuk).058
+    100142: Iga-iga (Usuk).059
+    100144: Iga-iga (Usuk).060
+    100146: Iga-iga (Usuk).061
+    100148: Iga-iga (Usuk).062
+    100150: Iga-iga (Usuk).063
+    100152: Jendela.001
+    100154: Jendela.002
+    100156: Jendela.003
+    100158: Lambang
+    100160: Lantai
+    100162: Lisplang
+    100164: Lisplang.001
+    100166: Lisplang.002
+    100168: Lisplang.003
+    100170: Lisplang.004
+    100172: Object009
+    100174: Object013
+    100176: Object015
+    100178: Object024
+    100180: Object025
+    100182: Object026
+    100184: Object027
+    100186: Object028
+    100188: Object029
+    100190: Object030
+    100192: Object031
+    100194: Object032
+    100196: Object033
+    100198: Object034
+    100200: Object035
+    100202: Object036
+    100204: Object037
+    100206: Object038
+    100208: Object039
+    100210: Object040
+    100212: Object041
+    100214: Object042
+    100216: Object043
+    100218: Object044
+    100220: Object045
+    100222: Object046
+    100224: Object047
+    100226: Object048
+    100228: Object049
+    100230: Object050
+    100232: Object051
+    100234: Pemade
+    100236: Penutup Atap
+    100238: Petaka
+    100240: Pintu
+    100242: Rangka Atap
+    100244: Reng
+    100246: Saka (Tiang).001
+    100248: Saka (Tiang).002
+    100250: Saka (Tiang).003
+    100252: Saka (Tiang).004
+    100254: Saka (Tiang).006
+    100256: Saka (Tiang).007
+    100258: Saka (Tiang).008
+    100260: Saka (Tiang).012
+    100262: Selimar (Bale)
+    100264: Selimar (Bale).001
+    100266: Selimar (Bale).002
+    100268: Sendi Depan.001
+    100270: Sendi Depan.002
+    100272: Sendi Depan.003
+    100274: Sendi Depan.004
+    100276: Sendi.001
+    100278: Sendi.002
+    100280: Sendi.003
+    100282: Sendi.004
+    100284: Sendi.005
+    100286: Sendi.006
+    100288: Sendi.007
+    100290: Sendi.008
+    100292: Sepah.001
+    100294: Sepah.002
+    100296: Sepah.003
+    100298: Sepah.004
+    100300: Sepah.005
+    100302: Sepah.006
+    100304: Sepah.007
+    100306: Sepah.008
+    100308: Sunduk.001
+    100310: Sunduk.002
+    100312: Sunduk.003
+    100314: Sunduk.004
+    100316: Tiang Depan
+    100318: Tiang Depan.001
+    100320: Tiang Depan.002
+    100322: Tiang Depan.003
+    100324: Tiang Depan.004
+    100326: Usuk Depan
+    100328: Usuk Depan.001
+    100330: Usuk Depan.002
+    100332: Usuk Depan.003
+    100334: Usuk Depan.004
+    400000: Atap
+    400002: Atap.001
+    400004: Atap.002
+    400006: Atap.003
+    400008: Atap.004
+    400010: //RootNode
+    400012: Bale.001
+    400014: Bale.002
+    400016: Box
+    400018: Box001
+    400020: Box002
+    400022: Box029
+    400024: Box030
+    400026: Box031
+    400028: Box032
+    400030: Box033
+    400032: Box037
+    400034: Box038
+    400036: Box054
+    400038: Box059
+    400040: Dinding
+    400042: Dinding Belakang
+    400044: Dinding Depan
+    400046: Dinding Kanan
+    400048: Dinding Kiri
+    400050: Iga-iga (Usuk)
+    400052: Iga-iga (Usuk).001
+    400054: Iga-iga (Usuk).002
+    400056: Iga-iga (Usuk).003
+    400058: Iga-iga (Usuk).004
+    400060: Iga-iga (Usuk).005
+    400062: Iga-iga (Usuk).006
+    400064: Iga-iga (Usuk).007
+    400066: Iga-iga (Usuk).008
+    400068: Iga-iga (Usuk).009
+    400070: Iga-iga (Usuk).010
+    400072: Iga-iga (Usuk).011
+    400074: Iga-iga (Usuk).017
+    400076: Iga-iga (Usuk).018
+    400078: Iga-iga (Usuk).019
+    400080: Iga-iga (Usuk).020
+    400082: Iga-iga (Usuk).021
+    400084: Iga-iga (Usuk).022
+    400086: Iga-iga (Usuk).023
+    400088: Iga-iga (Usuk).024
+    400090: Iga-iga (Usuk).025
+    400092: Iga-iga (Usuk).028
+    400094: Iga-iga (Usuk).029
+    400096: Iga-iga (Usuk).030
+    400098: Iga-iga (Usuk).031
+    400100: Iga-iga (Usuk).032
+    400102: Iga-iga (Usuk).033
+    400104: Iga-iga (Usuk).034
+    400106: Iga-iga (Usuk).035
+    400108: Iga-iga (Usuk).042
+    400110: Iga-iga (Usuk).043
+    400112: Iga-iga (Usuk).044
+    400114: Iga-iga (Usuk).045
+    400116: Iga-iga (Usuk).046
+    400118: Iga-iga (Usuk).047
+    400120: Iga-iga (Usuk).048
+    400122: Iga-iga (Usuk).049
+    400124: Iga-iga (Usuk).050
+    400126: Iga-iga (Usuk).051
+    400128: Iga-iga (Usuk).052
+    400130: Iga-iga (Usuk).053
+    400132: Iga-iga (Usuk).054
+    400134: Iga-iga (Usuk).055
+    400136: Iga-iga (Usuk).056
+    400138: Iga-iga (Usuk).057
+    400140: Iga-iga (Usuk).058
+    400142: Iga-iga (Usuk).059
+    400144: Iga-iga (Usuk).060
+    400146: Iga-iga (Usuk).061
+    400148: Iga-iga (Usuk).062
+    400150: Iga-iga (Usuk).063
+    400152: Jendela.001
+    400154: Jendela.002
+    400156: Jendela.003
+    400158: Lambang
+    400160: Lantai
+    400162: Lisplang
+    400164: Lisplang.001
+    400166: Lisplang.002
+    400168: Lisplang.003
+    400170: Lisplang.004
+    400172: Object009
+    400174: Object013
+    400176: Object015
+    400178: Object024
+    400180: Object025
+    400182: Object026
+    400184: Object027
+    400186: Object028
+    400188: Object029
+    400190: Object030
+    400192: Object031
+    400194: Object032
+    400196: Object033
+    400198: Object034
+    400200: Object035
+    400202: Object036
+    400204: Object037
+    400206: Object038
+    400208: Object039
+    400210: Object040
+    400212: Object041
+    400214: Object042
+    400216: Object043
+    400218: Object044
+    400220: Object045
+    400222: Object046
+    400224: Object047
+    400226: Object048
+    400228: Object049
+    400230: Object050
+    400232: Object051
+    400234: Pemade
+    400236: Penutup Atap
+    400238: Petaka
+    400240: Pintu
+    400242: Rangka Atap
+    400244: Reng
+    400246: Saka (Tiang).001
+    400248: Saka (Tiang).002
+    400250: Saka (Tiang).003
+    400252: Saka (Tiang).004
+    400254: Saka (Tiang).006
+    400256: Saka (Tiang).007
+    400258: Saka (Tiang).008
+    400260: Saka (Tiang).012
+    400262: Selimar (Bale)
+    400264: Selimar (Bale).001
+    400266: Selimar (Bale).002
+    400268: Sendi Depan.001
+    400270: Sendi Depan.002
+    400272: Sendi Depan.003
+    400274: Sendi Depan.004
+    400276: Sendi.001
+    400278: Sendi.002
+    400280: Sendi.003
+    400282: Sendi.004
+    400284: Sendi.005
+    400286: Sendi.006
+    400288: Sendi.007
+    400290: Sendi.008
+    400292: Sepah.001
+    400294: Sepah.002
+    400296: Sepah.003
+    400298: Sepah.004
+    400300: Sepah.005
+    400302: Sepah.006
+    400304: Sepah.007
+    400306: Sepah.008
+    400308: Sunduk.001
+    400310: Sunduk.002
+    400312: Sunduk.003
+    400314: Sunduk.004
+    400316: Tiang Depan
+    400318: Tiang Depan.001
+    400320: Tiang Depan.002
+    400322: Tiang Depan.003
+    400324: Tiang Depan.004
+    400326: Usuk Depan
+    400328: Usuk Depan.001
+    400330: Usuk Depan.002
+    400332: Usuk Depan.003
+    400334: Usuk Depan.004
+    2300000: Atap.001
+    2300002: Atap.002
+    2300004: Atap.003
+    2300006: Atap.004
+    2300008: Box
+    2300010: Box001
+    2300012: Box002
+    2300014: Box029
+    2300016: Box030
+    2300018: Box031
+    2300020: Box032
+    2300022: Box033
+    2300024: Box037
+    2300026: Box038
+    2300028: Box054
+    2300030: Box059
+    2300032: Dinding Belakang
+    2300034: Dinding Kanan
+    2300036: Dinding Kiri
+    2300038: Iga-iga (Usuk)
+    2300040: Iga-iga (Usuk).001
+    2300042: Iga-iga (Usuk).002
+    2300044: Iga-iga (Usuk).003
+    2300046: Iga-iga (Usuk).004
+    2300048: Iga-iga (Usuk).005
+    2300050: Iga-iga (Usuk).006
+    2300052: Iga-iga (Usuk).007
+    2300054: Iga-iga (Usuk).008
+    2300056: Iga-iga (Usuk).009
+    2300058: Iga-iga (Usuk).010
+    2300060: Iga-iga (Usuk).011
+    2300062: Iga-iga (Usuk).017
+    2300064: Iga-iga (Usuk).018
+    2300066: Iga-iga (Usuk).019
+    2300068: Iga-iga (Usuk).020
+    2300070: Iga-iga (Usuk).021
+    2300072: Iga-iga (Usuk).022
+    2300074: Iga-iga (Usuk).023
+    2300076: Iga-iga (Usuk).024
+    2300078: Iga-iga (Usuk).025
+    2300080: Iga-iga (Usuk).028
+    2300082: Iga-iga (Usuk).029
+    2300084: Iga-iga (Usuk).030
+    2300086: Iga-iga (Usuk).031
+    2300088: Iga-iga (Usuk).032
+    2300090: Iga-iga (Usuk).033
+    2300092: Iga-iga (Usuk).034
+    2300094: Iga-iga (Usuk).035
+    2300096: Iga-iga (Usuk).042
+    2300098: Iga-iga (Usuk).043
+    2300100: Iga-iga (Usuk).044
+    2300102: Iga-iga (Usuk).045
+    2300104: Iga-iga (Usuk).046
+    2300106: Iga-iga (Usuk).047
+    2300108: Iga-iga (Usuk).048
+    2300110: Iga-iga (Usuk).049
+    2300112: Iga-iga (Usuk).050
+    2300114: Iga-iga (Usuk).051
+    2300116: Iga-iga (Usuk).052
+    2300118: Iga-iga (Usuk).053
+    2300120: Iga-iga (Usuk).054
+    2300122: Iga-iga (Usuk).055
+    2300124: Iga-iga (Usuk).056
+    2300126: Iga-iga (Usuk).057
+    2300128: Iga-iga (Usuk).058
+    2300130: Iga-iga (Usuk).059
+    2300132: Iga-iga (Usuk).060
+    2300134: Iga-iga (Usuk).061
+    2300136: Iga-iga (Usuk).062
+    2300138: Iga-iga (Usuk).063
+    2300140: Jendela.001
+    2300142: Jendela.002
+    2300144: Jendela.003
+    2300146: Lambang
+    2300148: Lisplang.001
+    2300150: Lisplang.002
+    2300152: Lisplang.003
+    2300154: Lisplang.004
+    2300156: Object009
+    2300158: Object013
+    2300160: Object015
+    2300162: Object024
+    2300164: Object025
+    2300166: Object026
+    2300168: Object027
+    2300170: Object028
+    2300172: Object029
+    2300174: Object030
+    2300176: Object031
+    2300178: Object032
+    2300180: Object033
+    2300182: Object034
+    2300184: Object035
+    2300186: Object036
+    2300188: Object037
+    2300190: Object038
+    2300192: Object039
+    2300194: Object040
+    2300196: Object041
+    2300198: Object042
+    2300200: Object043
+    2300202: Object044
+    2300204: Object045
+    2300206: Object046
+    2300208: Object047
+    2300210: Object048
+    2300212: Object049
+    2300214: Object050
+    2300216: Object051
+    2300218: Pemade
+    2300220: Petaka
+    2300222: Pintu
+    2300224: Saka (Tiang).001
+    2300226: Saka (Tiang).002
+    2300228: Saka (Tiang).003
+    2300230: Saka (Tiang).004
+    2300232: Saka (Tiang).006
+    2300234: Saka (Tiang).007
+    2300236: Saka (Tiang).008
+    2300238: Saka (Tiang).012
+    2300240: Sendi Depan.001
+    2300242: Sendi Depan.002
+    2300244: Sendi Depan.003
+    2300246: Sendi Depan.004
+    2300248: Sendi.001
+    2300250: Sendi.002
+    2300252: Sendi.003
+    2300254: Sendi.004
+    2300256: Sendi.005
+    2300258: Sendi.006
+    2300260: Sendi.007
+    2300262: Sendi.008
+    2300264: Sepah.001
+    2300266: Sepah.002
+    2300268: Sepah.003
+    2300270: Sepah.004
+    2300272: Sepah.005
+    2300274: Sepah.006
+    2300276: Sepah.007
+    2300278: Sepah.008
+    2300280: Sunduk.001
+    2300282: Sunduk.002
+    2300284: Sunduk.003
+    2300286: Sunduk.004
+    2300288: Tiang Depan.001
+    2300290: Tiang Depan.002
+    2300292: Tiang Depan.003
+    2300294: Tiang Depan.004
+    2300296: Usuk Depan.001
+    2300298: Usuk Depan.002
+    2300300: Usuk Depan.003
+    2300302: Usuk Depan.004
+    3300000: Atap.001
+    3300002: Atap.002
+    3300004: Atap.003
+    3300006: Atap.004
+    3300008: Box
+    3300010: Box001
+    3300012: Box002
+    3300014: Box029
+    3300016: Box030
+    3300018: Box031
+    3300020: Box032
+    3300022: Box033
+    3300024: Box037
+    3300026: Box038
+    3300028: Box054
+    3300030: Box059
+    3300032: Dinding Belakang
+    3300034: Dinding Kanan
+    3300036: Dinding Kiri
+    3300038: Iga-iga (Usuk)
+    3300040: Iga-iga (Usuk).001
+    3300042: Iga-iga (Usuk).002
+    3300044: Iga-iga (Usuk).003
+    3300046: Iga-iga (Usuk).004
+    3300048: Iga-iga (Usuk).005
+    3300050: Iga-iga (Usuk).006
+    3300052: Iga-iga (Usuk).007
+    3300054: Iga-iga (Usuk).008
+    3300056: Iga-iga (Usuk).009
+    3300058: Iga-iga (Usuk).010
+    3300060: Iga-iga (Usuk).011
+    3300062: Iga-iga (Usuk).017
+    3300064: Iga-iga (Usuk).018
+    3300066: Iga-iga (Usuk).019
+    3300068: Iga-iga (Usuk).020
+    3300070: Iga-iga (Usuk).021
+    3300072: Iga-iga (Usuk).022
+    3300074: Iga-iga (Usuk).023
+    3300076: Iga-iga (Usuk).024
+    3300078: Iga-iga (Usuk).025
+    3300080: Iga-iga (Usuk).028
+    3300082: Iga-iga (Usuk).029
+    3300084: Iga-iga (Usuk).030
+    3300086: Iga-iga (Usuk).031
+    3300088: Iga-iga (Usuk).032
+    3300090: Iga-iga (Usuk).033
+    3300092: Iga-iga (Usuk).034
+    3300094: Iga-iga (Usuk).035
+    3300096: Iga-iga (Usuk).042
+    3300098: Iga-iga (Usuk).043
+    3300100: Iga-iga (Usuk).044
+    3300102: Iga-iga (Usuk).045
+    3300104: Iga-iga (Usuk).046
+    3300106: Iga-iga (Usuk).047
+    3300108: Iga-iga (Usuk).048
+    3300110: Iga-iga (Usuk).049
+    3300112: Iga-iga (Usuk).050
+    3300114: Iga-iga (Usuk).051
+    3300116: Iga-iga (Usuk).052
+    3300118: Iga-iga (Usuk).053
+    3300120: Iga-iga (Usuk).054
+    3300122: Iga-iga (Usuk).055
+    3300124: Iga-iga (Usuk).056
+    3300126: Iga-iga (Usuk).057
+    3300128: Iga-iga (Usuk).058
+    3300130: Iga-iga (Usuk).059
+    3300132: Iga-iga (Usuk).060
+    3300134: Iga-iga (Usuk).061
+    3300136: Iga-iga (Usuk).062
+    3300138: Iga-iga (Usuk).063
+    3300140: Jendela.001
+    3300142: Jendela.002
+    3300144: Jendela.003
+    3300146: Lambang
+    3300148: Lisplang.001
+    3300150: Lisplang.002
+    3300152: Lisplang.003
+    3300154: Lisplang.004
+    3300156: Object009
+    3300158: Object013
+    3300160: Object015
+    3300162: Object024
+    3300164: Object025
+    3300166: Object026
+    3300168: Object027
+    3300170: Object028
+    3300172: Object029
+    3300174: Object030
+    3300176: Object031
+    3300178: Object032
+    3300180: Object033
+    3300182: Object034
+    3300184: Object035
+    3300186: Object036
+    3300188: Object037
+    3300190: Object038
+    3300192: Object039
+    3300194: Object040
+    3300196: Object041
+    3300198: Object042
+    3300200: Object043
+    3300202: Object044
+    3300204: Object045
+    3300206: Object046
+    3300208: Object047
+    3300210: Object048
+    3300212: Object049
+    3300214: Object050
+    3300216: Object051
+    3300218: Pemade
+    3300220: Petaka
+    3300222: Pintu
+    3300224: Saka (Tiang).001
+    3300226: Saka (Tiang).002
+    3300228: Saka (Tiang).003
+    3300230: Saka (Tiang).004
+    3300232: Saka (Tiang).006
+    3300234: Saka (Tiang).007
+    3300236: Saka (Tiang).008
+    3300238: Saka (Tiang).012
+    3300240: Sendi Depan.001
+    3300242: Sendi Depan.002
+    3300244: Sendi Depan.003
+    3300246: Sendi Depan.004
+    3300248: Sendi.001
+    3300250: Sendi.002
+    3300252: Sendi.003
+    3300254: Sendi.004
+    3300256: Sendi.005
+    3300258: Sendi.006
+    3300260: Sendi.007
+    3300262: Sendi.008
+    3300264: Sepah.001
+    3300266: Sepah.002
+    3300268: Sepah.003
+    3300270: Sepah.004
+    3300272: Sepah.005
+    3300274: Sepah.006
+    3300276: Sepah.007
+    3300278: Sepah.008
+    3300280: Sunduk.001
+    3300282: Sunduk.002
+    3300284: Sunduk.003
+    3300286: Sunduk.004
+    3300288: Tiang Depan.001
+    3300290: Tiang Depan.002
+    3300292: Tiang Depan.003
+    3300294: Tiang Depan.004
+    3300296: Usuk Depan.001
+    3300298: Usuk Depan.002
+    3300300: Usuk Depan.003
+    3300302: Usuk Depan.004
+    4300000: Dinding Kanan
+    4300002: Dinding Kiri
+    4300004: Pintu
+    4300006: Box
+    4300008: Box054
+    4300010: Jendela.002
+    4300012: Object034
+    4300014: Object035
+    4300016: Object036
+    4300018: Object037
+    4300020: Object038
+    4300022: Object039
+    4300024: Object040
+    4300026: Object041
+    4300028: Object042
+    4300030: Object043
+    4300032: Object044
+    4300034: Object045
+    4300036: Box059
+    4300038: Jendela.001
+    4300040: Object025
+    4300042: Object024
+    4300044: Object015
+    4300046: Object033
+    4300048: Object032
+    4300050: Object031
+    4300052: Object030
+    4300054: Object009
+    4300056: Object029
+    4300058: Object028
+    4300060: Object027
+    4300062: Object026
+    4300064: Dinding Belakang
+    4300066: Jendela.003
+    4300068: Object013
+    4300070: Box002
+    4300072: Box001
+    4300074: Object048
+    4300076: Box037
+    4300078: Box038
+    4300080: Sendi Depan.003
+    4300082: Tiang Depan.003
+    4300084: Sendi Depan.002
+    4300086: Tiang Depan.002
+    4300088: Sendi Depan.001
+    4300090: Tiang Depan.001
+    4300092: Sendi Depan.004
+    4300094: Tiang Depan.004
+    4300096: Sendi.002
+    4300098: Sepah.002
+    4300100: Saka (Tiang).002
+    4300102: Sendi.001
+    4300104: Sepah.001
+    4300106: Saka (Tiang).001
+    4300108: Sendi.004
+    4300110: Sepah.004
+    4300112: Saka (Tiang).004
+    4300114: Sendi.003
+    4300116: Sepah.003
+    4300118: Saka (Tiang).003
+    4300120: Box031
+    4300122: Box032
+    4300124: Object046
+    4300126: Sunduk.001
+    4300128: Sunduk.002
+    4300130: Sendi.006
+    4300132: Sepah.006
+    4300134: Saka (Tiang).006
+    4300136: Sendi.005
+    4300138: Sepah.005
+    4300140: Saka (Tiang).012
+    4300142: Sendi.008
+    4300144: Sepah.008
+    4300146: Saka (Tiang).008
+    4300148: Sendi.007
+    4300150: Sepah.007
+    4300152: Saka (Tiang).007
+    4300154: Box029
+    4300156: Box030
+    4300158: Object047
+    4300160: Sunduk.003
+    4300162: Sunduk.004
+    4300164: Atap.003
+    4300166: Atap.001
+    4300168: Atap.002
+    4300170: Atap.004
+    4300172: Iga-iga (Usuk)
+    4300174: Iga-iga (Usuk).001
+    4300176: Iga-iga (Usuk).002
+    4300178: Iga-iga (Usuk).003
+    4300180: Iga-iga (Usuk).004
+    4300182: Iga-iga (Usuk).005
+    4300184: Iga-iga (Usuk).006
+    4300186: Iga-iga (Usuk).007
+    4300188: Iga-iga (Usuk).008
+    4300190: Iga-iga (Usuk).009
+    4300192: Iga-iga (Usuk).010
+    4300194: Iga-iga (Usuk).011
+    4300196: Iga-iga (Usuk).017
+    4300198: Iga-iga (Usuk).018
+    4300200: Iga-iga (Usuk).019
+    4300202: Iga-iga (Usuk).020
+    4300204: Iga-iga (Usuk).021
+    4300206: Iga-iga (Usuk).022
+    4300208: Iga-iga (Usuk).023
+    4300210: Iga-iga (Usuk).024
+    4300212: Iga-iga (Usuk).025
+    4300214: Iga-iga (Usuk).028
+    4300216: Iga-iga (Usuk).029
+    4300218: Iga-iga (Usuk).030
+    4300220: Iga-iga (Usuk).031
+    4300222: Iga-iga (Usuk).032
+    4300224: Iga-iga (Usuk).033
+    4300226: Iga-iga (Usuk).034
+    4300228: Iga-iga (Usuk).035
+    4300230: Iga-iga (Usuk).042
+    4300232: Iga-iga (Usuk).043
+    4300234: Iga-iga (Usuk).044
+    4300236: Iga-iga (Usuk).045
+    4300238: Iga-iga (Usuk).046
+    4300240: Iga-iga (Usuk).047
+    4300242: Iga-iga (Usuk).048
+    4300244: Iga-iga (Usuk).049
+    4300246: Iga-iga (Usuk).050
+    4300248: Iga-iga (Usuk).051
+    4300250: Iga-iga (Usuk).052
+    4300252: Iga-iga (Usuk).053
+    4300254: Iga-iga (Usuk).054
+    4300256: Iga-iga (Usuk).055
+    4300258: Iga-iga (Usuk).056
+    4300260: Iga-iga (Usuk).057
+    4300262: Iga-iga (Usuk).058
+    4300264: Iga-iga (Usuk).059
+    4300266: Iga-iga (Usuk).060
+    4300268: Iga-iga (Usuk).061
+    4300270: Iga-iga (Usuk).062
+    4300272: Iga-iga (Usuk).063
+    4300274: Petaka
+    4300276: Pemade
+    4300278: Lambang
+    4300280: Box033
+    4300282: Lisplang.004
+    4300284: Lisplang.002
+    4300286: Lisplang.003
+    4300288: Lisplang.001
+    4300290: Usuk Depan.001
+    4300292: Usuk Depan.002
+    4300294: Usuk Depan.003
+    4300296: Usuk Depan.004
+    4300298: Object049
+    4300300: Object050
+    4300302: Object051
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

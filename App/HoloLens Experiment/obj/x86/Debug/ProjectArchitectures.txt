@@ -1,0 +1,4 @@
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+E:\P3MI\P3MI HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+E:\P3MI\P3MI HoloLens\App\HoloLens Experiment\HoloLens Experiment.csproj;x86
